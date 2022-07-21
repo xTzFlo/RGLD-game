@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: 6c06ab086586a174f83185429c5bb014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6068799340214330013
+    second: flammes jv_0
+  - first:
+      213: 1751952235276571561
+    second: flammes jv_1
+  - first:
+      213: 2402546920620052386
+    second: flammes jv_2
+  - first:
+      213: 7514299186868855287
+    second: flammes jv_3
+  - first:
+      213: 7915509366950353961
+    second: flammes jv_4
+  - first:
+      213: 2681680251268149422
+    second: flammes jv_5
+  - first:
+      213: 375388503714524904
+    second: flammes jv_6
+  - first:
+      213: 632505883448232772
+    second: flammes jv_7
+  - first:
+      213: -2155977903694093740
+    second: flammes jv_8
+  - first:
+      213: -8401029394655127799
+    second: flammes jv_9
+  - first:
+      213: 8599830254186278946
+    second: flammes jv_10
+  - first:
+      213: 7948586954165366578
+    second: flammes jv_11
+  - first:
+      213: 7334961201547083011
+    second: flammes jv_12
+  - first:
+      213: -5371546559863966869
+    second: flammes jv_13
+  - first:
+      213: -2666429452337609148
+    second: flammes jv_14
+  - first:
+      213: 1257863481363376353
+    second: flammes jv_15
+  - first:
+      213: 8116734576353946384
+    second: flammes jv_16
+  - first:
+      213: -8314542215520290750
+    second: flammes jv_17
+  - first:
+      213: 1127573605470646984
+    second: flammes jv_18
+  - first:
+      213: -2397192821629580043
+    second: flammes jv_19
+  - first:
+      213: -5072186497451093130
+    second: flammes jv_20
+  - first:
+      213: -5684550509827113231
+    second: flammes jv_21
+  - first:
+      213: -3658981582526307562
+    second: flammes jv_22
+  - first:
+      213: -5231485135768996832
+    second: flammes jv_23
+  - first:
+      213: -882111462696067926
+    second: flammes jv_24
+  - first:
+      213: 2463418570698583070
+    second: flammes jv_25
+  - first:
+      213: -5943018748385661639
+    second: flammes jv_26
+  - first:
+      213: 2522430104719367308
+    second: flammes jv_27
+  - first:
+      213: -113748185972455843
+    second: flammes jv_28
+  - first:
+      213: -7360819898361020389
+    second: flammes jv_29
+  - first:
+      213: 3748143004541949832
+    second: flammes jv_30
+  - first:
+      213: -775518962271455623
+    second: flammes jv_31
+  - first:
+      213: 8719930063841836768
+    second: flammes jv_32
+  - first:
+      213: -1242463872363738748
+    second: flammes jv_33
+  - first:
+      213: -6416533601570560706
+    second: flammes jv_34
+  - first:
+      213: -6290682396255760441
+    second: flammes jv_35
+  - first:
+      213: -7276641132209889150
+    second: flammes jv_36
+  - first:
+      213: 342351526209182752
+    second: flammes jv_37
+  - first:
+      213: -4225251924972388902
+    second: flammes jv_38
+  - first:
+      213: -113900631356660612
+    second: flammes jv_39
+  - first:
+      213: -1748952138071568664
+    second: flammes jv_40
+  - first:
+      213: 3081686134026252983
+    second: flammes jv_41
+  - first:
+      213: 1430288229665195076
+    second: flammes jv_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flammes jv_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 423
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d5669672b47cba0800000000000000
+      internalID: -6068799340214330013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 572
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a39c17964f205810800000000000000
+      internalID: 1751952235276571561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 424
+        width: 75
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 58}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af44cfe1bf875120800000000000000
+      internalID: 2402546920620052386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 568
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f123594c47284860800000000000000
+      internalID: 7514299186868855287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 425
+        width: 85
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 85}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c5a51c4d989dd60800000000000000
+      internalID: 7915509366950353961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 579
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0b40afafd373520800000000000000
+      internalID: 2681680251268149422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 568
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6ba0fad5a53500800000000000000
+      internalID: 375388503714524904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 424
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 47}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc645ffbc17c800800000000000000
+      internalID: 632505883448232772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 577
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452e8baf48d6412e0800000000000000
+      internalID: -2155977903694093740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 425
+        width: 57
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 60}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90757ffa64c896b80800000000000000
+      internalID: -8401029394655127799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 425
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2203e656d0cb85770800000000000000
+      internalID: 8599830254186278946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 208
+        width: 93
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 88}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fa45da8bd0f4e60800000000000000
+      internalID: 7948586954165366578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 596
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d7c7bb9540bc560800000000000000
+      internalID: 7334961201547083011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 579
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6336dc0dde6475b0800000000000000
+      internalID: -5371546559863966869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 541
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44607ca5a80fefad0800000000000000
+      internalID: -2666429452337609148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 539
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8a99efb24d47110800000000000000
+      internalID: 1257863481363376353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 556
+        width: 11
+        height: 23
+      alignment: 9
+      pivot: {x: -41.576977, y: 10.632393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b25b7c71f64a070800000000000000
+      internalID: 8116734576353946384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2487ce548efcc9c80800000000000000
+      internalID: -8314542215520290750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 205
+        width: 79
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 70}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c23f245832f5af00800000000000000
+      internalID: 1127573605470646984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 609
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc07a064d57bbed0800000000000000
+      internalID: -2397192821629580043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 206
+        width: 79
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 68}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67315e01149fb99b0800000000000000
+      internalID: -5072186497451093130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_21
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 206
+        width: 78
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 77}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe3df9ed6b6c11b0800000000000000
+      internalID: -5684550509827113231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 205
+        width: 77
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 63}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613a2d503afa83dc0800000000000000
+      internalID: -3658981582526307562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b0c29cf70667b0800000000000000
+      internalID: -5231485135768996832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 556
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac53bd5c4c12c3f0800000000000000
+      internalID: -882111462696067926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_25
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 209
+        width: 68
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 80}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ce6976322df2220800000000000000
+      internalID: 2463418570698583070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 542
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d6cf09fe7268da0800000000000000
+      internalID: -5943018748385661639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 590
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c9c8ad0d8710320800000000000000
+      internalID: 2522430104719367308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 579
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564445a0a2eb6ef0800000000000000
+      internalID: -113748185972455843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 576
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10809e3d4d19d990800000000000000
+      internalID: -7360819898361020389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 572
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88796114434140430800000000000000
+      internalID: 3748143004541949832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 39
+        width: 69
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 92}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976fa39dc9dcc35f0800000000000000
+      internalID: -775518962271455623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 37
+        width: 58
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 69}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeba81613a630970800000000000000
+      internalID: 8719930063841836768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 581
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489c081e0b1e1cee0800000000000000
+      internalID: -1242463872363738748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 567
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3567058fa4e3f6a0800000000000000
+      internalID: -6416533601570560706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_35
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 40
+        width: 39
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 54}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf4f58a0b103b8a0800000000000000
+      internalID: -6290682396255760441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 567
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28022ac817d240b90800000000000000
+      internalID: -7276641132209889150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_37
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 568
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cd20436e640c400800000000000000
+      internalID: 342351526209182752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_38
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 39
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add3c75b2c3ec55c0800000000000000
+      internalID: -4225251924972388902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 704
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c742b40baf75b6ef0800000000000000
+      internalID: -113900631356660612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_40
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 38
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee8519fb497ab7e0800000000000000
+      internalID: -1748952138071568664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2b1ef163954ca20800000000000000
+      internalID: 3081686134026252983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flammes jv_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 546
+        width: 10
+        height: 23
+      alignment: 9
+      pivot: {x: -46.989285, y: 9.846781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444cd9f119769d310800000000000000
+      internalID: 1430288229665195076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
